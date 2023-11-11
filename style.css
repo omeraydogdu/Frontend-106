@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(185, 184, 183);
+}
+/* navbar sekme cssleri */
+.nav-link{
+     text-align: center;
+    i{
+        text-align: center;
+    }
+}
+.nav-item{
+    padding-right: 7px;
+}
+
+/* search cssleri */
+.input-group-text .fas {
+    font-size: 10px;
+}
+.input-group{
+    width: 250px;
+}
+
+/* logo */
+.logo{
+    font-size: 40px;
+}
+/* çizgi verdik */
+.border-bottom-dark {
+    border-right: 1px solid rgb(247, 246, 246)
+}
+/* article boşluk*/
+article {
+    margin-top: 150px;
+}
+.cardimg{
+    height: 100px;
+}
+/*---------------------------*/
+.img-size{
+    margin-left: 5px;
+    height: 80px;
+    width: 100px;
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+.card-center{
+    display: flex;
+    align-items: center;
+}
+/* div ortalama -- container1 */ 
+.container{
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    width: 800px;
+}
+.rounded-circle{
+    margin-left: 10px;
+    width: 80px;
+    height: 80px;
+}
+.container2{
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 320px;
+    left: 350px;
+    width: 600px;
+}
+.container3 {
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 1100px;
+    left: 350px;
+    width: 600px;
+}
+.container4 {
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 1820px;
+    left: 350px;
+    width: 600px;
+}
+
+/* aside kısmı */
+aside{
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+#aside{
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 550px;
+    left: 1000px;
+}
+
+#aside2{
+    
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 900px;
+    left: 1000px;
+}
+
+#aside3{
+    display: grid;
+    place-items: center;
+    height: 80px;
+    position: absolute;
+    top: 1000px;
+    left: 1000px;
+}
+
+footer{
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 20%;
+    height: 50px;
+    margin-left: 70em;
+    padding-bottom: 3.5em;
+}
+
+
